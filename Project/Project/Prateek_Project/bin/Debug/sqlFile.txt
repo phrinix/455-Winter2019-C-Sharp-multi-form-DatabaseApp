@@ -1,0 +1,5 @@
+Monday, April 8, 2019 3:27:00 PM      SELECT * FROM course
+Monday, April 8, 2019 3:27:08 PM      SELECT * FROM school
+Monday, April 8, 2019 3:27:27 PM      SELECT SchoolID FROM school
+Monday, April 8, 2019 3:30:28 PM      SELECT * FROM school
+Monday, April 8, 2019 3:30:37 PM      SELECT SchoolName FROM school
